@@ -1,23 +1,10 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-- Bagaimana membuat solusi dalam bentuk program yang efektif dan efisien
-- Langkahnya seperti apa untuk bisa menyelesaikan masalah, untuk lebih efektif, untuk lebih efisien
-- Ini dasar dari semua pembangunan produk keinformatikaan
+https://dnjwna.wordpress.com/uas-pi/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-- Karena solusi teknologi informasi itu ditaruh di mesin komputasi
-    - Mobil pintar
-    - Robot mini
-    - Drone pawai teratur
-    - Smartphone
-    - Game
-- Contoh
-    - PC
-    - Server
-    - Embedded computer
-    - Mobile phone
-    - Console
+https://dnjwna.wordpress.com/uas-pi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
