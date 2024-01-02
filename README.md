@@ -17,8 +17,7 @@ https://dnjwna.wordpress.com/uas-pi/
 
 ### Console di Windows / Mac: Windows CMD [v] ⭐⭐⭐⭐
 
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
-
+https://youtu.be/sNT9zW0QwUM
 ### Console di Linux: Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 
 Contoh di Google Colab:
@@ -36,19 +35,11 @@ Print saya sekarang ada di posisi mana
 - [Linux Command Cheat Sheet](https://phoenixnap.com/kb/linux-commands-cheat-sheet)
 
 ## Membuat Algoritma Dalam Bentuk Flow Chart [v] ⭐⭐⭐⭐⭐
-- Contoh:
-    - Flowchart daftar ulang perkuliahan
-    - Flowchart musuh di game mengejar karakter
-    - Flowchart bayar pajak STNK
-    - Flowchart membuat paspor
-    - Flowchart sortir daftar mahasiswa
-    - Flowchart login Instagram
-
-Referensi [1](https://dev.to/angelotheman/flowchart-wizardry-master-the-art-of-visualizing-algorithms-4e4j)
+https://youtu.be/UggfxTcciv4
 
 ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
 
-Referensi [1](https://scratch.mit.edu/)
+https://youtu.be/xMRDqnAwypU
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
 - Beri penjelasan
@@ -56,26 +47,16 @@ Referensi [1](https://scratch.mit.edu/)
 - Lebih bagus buat juga flowchart nya
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
-- IDE / text editor berplugin digunakan untuk membangun program menggunakan bahasa pemrograman
-- Contoh:
-    - VS Code
-    - Unity
-    - Android Studio
-    - Notepad ++
-    - Vim
+https://youtu.be/9aJL9x3zpwU
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
-- Sebagai developer
-- Selesaikan topics : Algorithms / Data Structure / Mathematics, boleh pake bahasa apapun
+https://youtu.be/aVtKg7Li86Y
 
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 - Menggunakan evaluasi tengah semester
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-- Karena semua aplikasi terutama berbasis internet saat ini seperti Instagram, Youtube, Github, Tokopedia, BPJS, Internet Banking, semua, pake database
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+https://youtu.be/wnb2Kiy2lu8
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 - Eksplorasi dan pengelolaan database, paling dasar bisa menggunakan console
@@ -132,27 +113,7 @@ Referensi:
 - [On page SEO](https://backlinko.com/on-page-seo)
 
 ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
-- Karena JSON sekarang format representasi data paling populer digunakan baik untuk pengguna manusia dan utamanya untuk integrasi data antar aplikasi. Gojek ke BNI, UIN ke Kemenag, Kementerian ke KSP, aplikasi kasir ke server utama, Instagram App ke server Instagram, backup data mahasiswa
-
-```json
-{
-    "nama_data": "List Mahasiswa 2023",
-    "isi_data": [
-        {
-            "nim": "93487534",
-            "nama": "Aden",
-            "tl": 2005,
-            "aktif": true
-        },
-        {
-            "nim": "93487535",
-            "nama": "Juli",
-            "tl": 2005,
-            "aktif": true
-        }
-    ]
-}
-```
+https://youtu.be/unKRdEfBvP4
 
 ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
@@ -194,9 +155,9 @@ Referensi:
 - [Gambar](https://gitlab.com/marchgis/march-ed/2023/courses/if216006-praktikum-sistem-multimedia/-/tree/main/modul-2)
 
 ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
-
+https://youtu.be/nkQv-K-mZMU
 ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-
+https://youtu.be/nkQv-K-mZMU
 ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 Referensi:
@@ -244,7 +205,7 @@ Referensi:
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
-
+https://youtu.be/NWvTs_kCG7Q
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
