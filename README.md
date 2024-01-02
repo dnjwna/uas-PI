@@ -200,6 +200,7 @@ Referensi:
 - Eksplorasi juga jurnal yang disuka di https://www.scimagojr.com/
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+![Screenshot 2024-01-02 115640](https://github.com/dnjwna/uas-PI/assets/144506995/ad7ab04c-bee2-47a3-99cb-f58e0827686e)
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
@@ -208,12 +209,11 @@ https://youtu.be/NWvTs_kCG7Q
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
-
+https://youtu.be/lPctw0rlg7k
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
-Referensi:
-- https://roadmap.sh/
+https://youtu.be/dpb-b-yjY30
 
 ## Eksplorasi Top Github Project yang Diminati ⭐⭐ 
 Referensi:
@@ -224,6 +224,9 @@ Referensi:
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![Screenshot (675)](https://github.com/dnjwna/uas-PI/assets/144506995/20e777b9-ff42-4e74-a6fd-a2ecff79161f)
+![course](https://github.com/dnjwna/uas-PI/assets/144506995/752acc1d-a63a-4842-9d10-da520b0562f1)
+
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 
