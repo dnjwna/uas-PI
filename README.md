@@ -42,11 +42,10 @@ https://youtu.be/UggfxTcciv4
 https://youtu.be/xMRDqnAwypU
 
 ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
-
-![Screenshot 2023-12-26 ![Screenshot 2023-12-26 181334](https://github.com/dnjwna/uas-PI/assets/144506995/9ec0d7b1-7479-426e-a84f-69b9d9cbc380)
-181317](https://github.com/dnjwna/uas-PI/assets/144506995/d6026ae9-3833-4034-ae96-baf764098ea9)
+![Screenshot 2023-12-26 181317](https://github.com/dnjwna/uas-PI/assets/144506995/566f81b1-2d2a-4293-8a14-5e2c7726cb6e)
 
 ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+
 https://youtu.be/9aJL9x3zpwU
 
 ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
