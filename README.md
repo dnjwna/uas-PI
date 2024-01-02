@@ -229,6 +229,11 @@ Referensi:
 
 
 ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
+![buku](https://github.com/dnjwna/uas-PI/assets/144506995/dbed572d-877b-40e8-ac86-5449cb575e09)
+
+https://dnjwna.wordpress.com/membaca-dan-mengambil-inspirasi-dari-buku-bertema-informatika/
+
+
 
 
 
