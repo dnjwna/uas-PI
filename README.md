@@ -72,32 +72,17 @@ Referensi installer [Dbeaver](https://dbeaver.io/download/)
 Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 
 ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
-- Jelaskan sederhana cara kerjanya
+https://dnjwna.wordpress.com/mendemonstrasikan-dan-menjelaskan-penggunaan-web-browser-untuk-mengakses-halaman-website-html/
+https://youtu.be/Seuo3m_LdrE
 
 ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
-- Karena URL tidak hanya dipakai untuk manusia akses ke browser
-- Penggunaan utamanya saat ini adalah integrasi data misal antara Front End dan Backend, atau antara aplikasi mobile dengan server menggunakan protokol komunikasi RESTful API
-- Jadi resource itu apa sih, di kata URL ini ?
-
-Referensi: [1](https://www.startertutorials.com/ajwt/uniform-resource-locator.html)
+https://dnjwna.wordpress.com/mendemonstrasikan-dan-menjelaskan-komponen-dari-contoh-uniform-resource-locator-url/
 
 ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi tool:
-- https://who.is/whois/detik.com
-- https://www.nslookup.io/domains/detik.com/webservers/
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+https://youtu.be/UMSWD0XbHO0
 
 ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
-
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+https://youtu.be/yX0sVNZndxg
 
 ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
