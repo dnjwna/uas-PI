@@ -1,10 +1,10 @@
 # Hello Informatics !
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-https://dnjwna.wordpress.com/uas-pi/
+https://dnjwna.wordpress.com/computational-thinking-menginternalisasi-konsep-dan-manfaatnya/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
-https://dnjwna.wordpress.com/uas-pi/
+https://dnjwna.wordpress.com/jenis-jenis-mesin-komputasi-evolusi-teknologi-pengolahan-informasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 - Karena akan memudahkan latihan coding, membangun model AI, hingga riset di berbagai bidang
