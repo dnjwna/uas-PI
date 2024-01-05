@@ -157,12 +157,10 @@ Referensi:
 - [ChartJS](https://www.chartjs.org/docs/latest/getting-started/)
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
-Referensi:
-- [Huggingface](https://huggingface.co/)
-- [Contoh penggunaan di Google Colab](https://colab.research.google.com/drive/1mcMiav2NBk4UcnttAuB4reSCeWuywjmj?usp=sharing)
+https://youtu.be/HJWusuveo34
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
-- https://www.kaggle.com
+https://youtu.be/dJl08Xb-TBw
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
@@ -205,7 +203,7 @@ Referensi:
 - https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Top-100-stars.md
 
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
-
+https://www.linkedin.com/in/danu-juwana-147497297/
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
